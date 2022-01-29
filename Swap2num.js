@@ -1,5 +1,5 @@
-var a = 12;
-var b = 14;
+var a = 10;
+var b = 20;
 var c = a;
 var a = b;
 var b = c;
